@@ -1,8 +1,4 @@
-# Status
-
-This library is not maintained anymore.
-
-[![Build Status](https://travis-ci.org/Igosuki/compass-mixins.svg?branch=master)](https://travis-ci.org/Igosuki/compass-mixins)
+[![Build Status](https://travis-ci.org/SmartWebDK/compass-mixins.svg?branch=master)](https://travis-ci.org/SmartWebDk/compass-mixins)
 
 # Compass SASS Stylesheets
 
