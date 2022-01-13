@@ -1,6 +1,6 @@
 {
   "name": "compass-mixins",
-  "version": "0.12.11",
+  "version": "0.12.12",
   "author": {
     "name": "Guillaume Balaine",
     "email": "igosuki@gmail.com",
@@ -10,7 +10,15 @@
     {
       "name": "Michael Heillein",
       "url": "https://github.com/michaek"
-    }
+    },
+    {
+      "name": "Dan Jessen",
+      "url": "https://github.com/danjessen"
+    },
+    {
+      "name": "Martin Vestergaard",
+      "url": "https://github.com/maven9"
+    }   
   ],
   "description": "Compass stylesheets",
   "repository": {
