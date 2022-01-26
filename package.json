@@ -6,6 +6,20 @@
     "email": "mvmartinxd@gmail.com",
     "url": "https://github.com/SmartWebDK"
   },
+  "contributors": [
+    {
+      "name": "Michael Heillein",
+      "url": "https://github.com/michaek"
+    },
+    {
+      "name": "Dan Jessen",
+      "url": "https://github.com/danjessen"
+    },
+    {
+      "name": "Martin Vestergaard",
+      "url": "https://github.com/maves9"
+    }
+  ],
   "description": "Compass stylesheets",
   "repository": {
     "type": "git",
